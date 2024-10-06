@@ -1,7 +1,7 @@
 ### Hi there 👋
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=prakashp&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=prkashp&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashp&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prkashp&theme=blue-green)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
